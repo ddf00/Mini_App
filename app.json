@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/log/log"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#bfa",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "MiniApp",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
